@@ -1,0 +1,3 @@
+Encoder, Decoder, BCD-to-Decimal Decoder, Mux, DeMux 총 5개 실습에 대해
+각각 design source file(.v), testbench file(.v), simulation 캡쳐 제출
+총 15개 파일 업로드

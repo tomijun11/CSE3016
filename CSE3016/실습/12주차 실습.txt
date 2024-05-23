@@ -1,0 +1,4 @@
+ ※3개 실습 모두 array로 구현 및 if-else문 사용하셔야 합니다.
+2bit 2진 counter, 4bit decade counter, 4bit 2421 decade counter 총 3개의 실습에 대하여
+각각 design source file(.v), testbench file(.v), simulation 캡쳐 제출
+총 9개 파일 업로드

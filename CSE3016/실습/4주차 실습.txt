@@ -1,0 +1,5 @@
+4-input NAND, NOR, XOR, AOI 총 4개 실습에 대해
+각각 design source file, testbench file, simulation 캡쳐 제출
+ 
+
+총 12개 파일 압축하여 업로드 (최종 파일명 : 4주차_실습_학번_이름.zip)

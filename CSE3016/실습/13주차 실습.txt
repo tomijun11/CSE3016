@@ -1,0 +1,3 @@
+Shift Register, Ring Counter, UP/DOWN Counter 총 3개의 실습에 대하여
+각각 design source file(.v), testbench file(.v), simulation 캡쳐 제출
+총 9개 파일 업로드

@@ -1,0 +1,5 @@
+46pg,
+(a) 의 verilog file, testbench file, simulation결과 캡쳐
+(b) 의 verilog file, testbench file, simulation결과 캡쳐
+ 
+각 3개의 파일씩, 총 6개의 파일 업로드

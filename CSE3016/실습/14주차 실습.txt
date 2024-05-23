@@ -1,0 +1,7 @@
+Overlapping 방식의 Sequence 1101 Mealy Machine 1개의 실습에 대해
+
+design source file(.v), testbench file(.v), simulation 캡쳐 제출
+
+ 
+
+총 3개 파일 업로드
